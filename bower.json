@@ -2,7 +2,7 @@
   "name": "ionic-css",
   "version": "1.0.1",
   "codename": "vanadium-vaquita",
-  "homepage": "https://github.com/driftyco/ionic",
+  "homepage": "https://github.com/sideral/ionic",
   "authors": [
     "Max Lynch <max@drifty.com>",
     "Adam Bradley <adam@drifty.com>",
@@ -13,20 +13,6 @@
     "release/css/ionic.css",
     "release/fonts/*"
   ],
-  "keywords": [
-    "mobile",
-    "html5",
-    "ionic",
-    "cordova",
-    "phonegap",
-    "trigger",
-    "triggerio",
-    "angularjs",
-    "angular"
-  ],
   "license": "MIT",
-  "private": false,
-  "dependencies": {
-
-  }
+  "private": false
 }
