@@ -1,8 +1,10 @@
 {
   "name": "ionic-css",
   "version": "1.0.1",
-  "codename": "vanadium-vaquita",
-  "homepage": "https://github.com/sideral/ionic",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sideral/ionic.git"
+  },
   "authors": [
     "Max Lynch <max@drifty.com>",
     "Adam Bradley <adam@drifty.com>",
